@@ -21,5 +21,8 @@
   "homepage": "https://github.com/kanekotic/ElectronIn15#readme",
   "devDependencies": {
     "electron-prebuilt": "^1.1.3"
+  },
+  "dependencies": {
+    "rethinkdb": "^2.3.1"
   }
 }
